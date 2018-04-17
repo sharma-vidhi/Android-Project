@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff875e</color>
+    <color name="colorPrimaryDark">#ffccbc</color>
+    <color name="colorAccent">#3c4ae1</color>
+    <color name="backgrround">#f8f1f1</color>
+    <color name="text">#ab47bc</color>
+    <color name="button_color">#edc9f3</color>
+    <color name="toolbar_color">#ff8a80</color>
+
+
+    <color name="likeBtnGray">#747474</color>
+
+</resources>

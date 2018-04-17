@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "975562033517",
+    "firebase_url": "https://cmpe277-dexterity.firebaseio.com",
+    "project_id": "cmpe277-dexterity",
+    "storage_bucket": "cmpe277-dexterity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975562033517:android:de92de7b857266d3",
+        "android_client_info": {
+          "package_name": "com.cmpe277.vidhi.cmpe277_dexterity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975562033517-jncecp726usv3in1qoinoacugo88e04j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmpe277.vidhi.cmpe277_dexterity",
+            "certificate_hash": "3f59c8c41c33213593026fef51af6bfb17bf6b3f"
+          }
+        },
+        {
+          "client_id": "975562033517-e7bcp9k9p60p7c6o7fp32nae3ndet7bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAncjEquXTnPOhZ5H2so5OEKCdd2K9IETA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975562033517-e7bcp9k9p60p7c6o7fp32nae3ndet7bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
